@@ -22,7 +22,7 @@ buildscript {
     versions.minSdk = 16
     versions.targetSdk = 30
     versions.kotlin = '1.6.10'
-    versions.work = "2.7.1"
+    versions.work = "2.3.3"
 
     repositories {
         google()
